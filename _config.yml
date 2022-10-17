@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "yuchan_note"
+title                    : "유찬의 개발노트"
 title_separator          : "|"
 subtitle                 : "honey badger"
 name                     : "yuchan"
@@ -97,7 +97,7 @@ social:
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google: 
+  google:
     tracking_id          : "G-VH6E8WYQTR"
     anonymize_ip         : false # true, false (default)
 
